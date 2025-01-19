@@ -1,0 +1,24 @@
+[submodule "custom_nodes/ComfyUI-Manager"]
+	path = custom_nodes/ComfyUI-Manager
+	url = git@github.com:ltdrdata/ComfyUI-Manager
+[submodule "custom_nodes/ComfyUI-Custom-Scripts"]
+	path = custom_nodes/ComfyUI-Custom-Scripts
+	url = git@github.com:pythongosssss/ComfyUI-Custom-Scripts
+[submodule "custom_nodes/ComfyUI-KJNodes"]
+	path = custom_nodes/ComfyUI-KJNodes
+	url = git@github.com:kijai/ComfyUI-KJNodes
+[submodule "custom_nodes/ComfyUI-TeaCache"]
+	path = custom_nodes/ComfyUI-TeaCache
+	url = git@github.com:welltop-cn/ComfyUI-TeaCache
+[submodule "custom_nodes/ComfyUI-mxToolkit"]
+	path = custom_nodes/ComfyUI-mxToolkit
+	url = git@github.com:Smirnov75/ComfyUI-mxToolkit
+[submodule "custom_nodes/ComfyUI_TensorRT"]
+	path = custom_nodes/ComfyUI_TensorRT
+	url = git@github.com:comfyanonymous/ComfyUI_TensorRT
+[submodule "custom_nodes/rgthree-comfy"]
+	path = custom_nodes/rgthree-comfy
+	url = git@github.com:rgthree/rgthree-comfy
+[submodule "custom_nodes/ComfyUI-Crystools"]
+	path = custom_nodes/ComfyUI-Crystools
+	url = git@github.com:crystian/ComfyUI-Crystools

@@ -22,3 +22,6 @@
 [submodule "custom_nodes/ComfyUI-Crystools"]
 	path = custom_nodes/ComfyUI-Crystools
 	url = git@github.com:crystian/ComfyUI-Crystools
+[submodule "custom_nodes/ComfyUI-FluxTrainer"]
+	path = custom_nodes/ComfyUI-FluxTrainer
+	url = git@github.com:kijai/ComfyUI-FluxTrainer.git

@@ -25,3 +25,12 @@
 [submodule "custom_nodes/ComfyUI-FluxTrainer"]
 	path = custom_nodes/ComfyUI-FluxTrainer
 	url = git@github.com:kijai/ComfyUI-FluxTrainer.git
+[submodule "custom_nodes/Comfy-WaveSpeed"]
+	path = custom_nodes/Comfy-WaveSpeed
+	url = git@github.com:chengzeyi/Comfy-WaveSpeed.git
+[submodule "custom_nodes/ComfyUI_PuLID_Flux_ll"]
+	path = custom_nodes/ComfyUI_PuLID_Flux_ll
+	url = git@github.com:lldacing/ComfyUI_PuLID_Flux_ll.git
+[submodule "custom_nodes/ComfyUI_Patches_ll"]
+	path = custom_nodes/ComfyUI_Patches_ll
+	url = git@github.com:lldacing/ComfyUI_Patches_ll.git

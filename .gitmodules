@@ -34,3 +34,6 @@
 [submodule "custom_nodes/ComfyUI_Patches_ll"]
 	path = custom_nodes/ComfyUI_Patches_ll
 	url = https://github.com/lldacing/ComfyUI_Patches_ll.git
+[submodule "custom_nodes/ComfyUI_essentials"]
+	path = custom_nodes/ComfyUI_essentials
+	url = https://github.com/cubiq/ComfyUI_essentials.git

@@ -1,36 +1,36 @@
 [submodule "custom_nodes/ComfyUI-Manager"]
 	path = custom_nodes/ComfyUI-Manager
-	url = git@github.com:ltdrdata/ComfyUI-Manager
+	url = https://github.com/ltdrdata/ComfyUI-Manager
 [submodule "custom_nodes/ComfyUI-Custom-Scripts"]
 	path = custom_nodes/ComfyUI-Custom-Scripts
-	url = git@github.com:pythongosssss/ComfyUI-Custom-Scripts
+	url = https://github.com/pythongosssss/ComfyUI-Custom-Scripts
 [submodule "custom_nodes/ComfyUI-KJNodes"]
 	path = custom_nodes/ComfyUI-KJNodes
-	url = git@github.com:kijai/ComfyUI-KJNodes
+	url = https://github.com/kijai/ComfyUI-KJNodes
 [submodule "custom_nodes/ComfyUI-TeaCache"]
 	path = custom_nodes/ComfyUI-TeaCache
-	url = git@github.com:welltop-cn/ComfyUI-TeaCache
+	url = https://github.com/welltop-cn/ComfyUI-TeaCache
 [submodule "custom_nodes/ComfyUI-mxToolkit"]
 	path = custom_nodes/ComfyUI-mxToolkit
-	url = git@github.com:Smirnov75/ComfyUI-mxToolkit
+	url = https://github.com/Smirnov75/ComfyUI-mxToolkit
 [submodule "custom_nodes/ComfyUI_TensorRT"]
 	path = custom_nodes/ComfyUI_TensorRT
-	url = git@github.com:comfyanonymous/ComfyUI_TensorRT
+	url = https://github.com/comfyanonymous/ComfyUI_TensorRT
 [submodule "custom_nodes/rgthree-comfy"]
 	path = custom_nodes/rgthree-comfy
-	url = git@github.com:rgthree/rgthree-comfy
+	url = https://github.com/rgthree/rgthree-comfy
 [submodule "custom_nodes/ComfyUI-Crystools"]
 	path = custom_nodes/ComfyUI-Crystools
-	url = git@github.com:crystian/ComfyUI-Crystools
+	url = https://github.com/crystian/ComfyUI-Crystools
 [submodule "custom_nodes/ComfyUI-FluxTrainer"]
 	path = custom_nodes/ComfyUI-FluxTrainer
-	url = git@github.com:kijai/ComfyUI-FluxTrainer.git
+	url = https://github.com/kijai/ComfyUI-FluxTrainer.git
 [submodule "custom_nodes/Comfy-WaveSpeed"]
 	path = custom_nodes/Comfy-WaveSpeed
-	url = git@github.com:chengzeyi/Comfy-WaveSpeed.git
+	url = https://github.com/chengzeyi/Comfy-WaveSpeed.git
 [submodule "custom_nodes/ComfyUI_PuLID_Flux_ll"]
 	path = custom_nodes/ComfyUI_PuLID_Flux_ll
-	url = git@github.com:lldacing/ComfyUI_PuLID_Flux_ll.git
+	url = https://github.com/lldacing/ComfyUI_PuLID_Flux_ll.git
 [submodule "custom_nodes/ComfyUI_Patches_ll"]
 	path = custom_nodes/ComfyUI_Patches_ll
-	url = git@github.com:lldacing/ComfyUI_Patches_ll.git
+	url = https://github.com/lldacing/ComfyUI_Patches_ll.git
